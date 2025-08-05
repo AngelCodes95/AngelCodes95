@@ -1,7 +1,7 @@
 # Angel Vazquez
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AngelCodes95/AngelCodes95/main/assets/github-triangle-polaroid.svg" alt="Angel Vazquez - Software Engineer" width="400"/>
+  <img src="https://raw.githubusercontent.com/AngelCodes95/AngelCodes95/main/assets/github-triangle-polaroid.svg" alt="Angel Vazquez - Software Engineer" width="100%"/>
 </div>
 
 <div align="center">
@@ -74,6 +74,6 @@ Active contributor to the 100Devs developer community with focus on practical ap
 
 [![GitHub](https://img.shields.io/badge/GitHub-AngelCodes95-black?style=flat&logo=github)](https://github.com/angelcodes95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelthedev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/angelthedev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-angel-vazquez.com-purple?style=flat&logo=safari)](https://angel-vazquez.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-angel--vazquez.com-purple?style=flat&logo=globe)](https://angel-vazquez.com)
 
 </div>
