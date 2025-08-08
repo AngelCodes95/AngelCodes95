@@ -8,13 +8,14 @@
   
 ### React + TypeScript Developer | La Jolla, CA
 
-**[Visit My Interactive Portfolio](https://angel-vazquez.com)**
+**[Visit My Interactive Digital Business Card, the bottom icon is my portfolio link!](https://angel-vazquez.com)**
 
-*3D wireframe pyramid portfolio with physics-based animations*
+*3D wireframe pyramid game with physics-based animations that doubles as a hub for all my tech links*
 
 </div>
 
 ## About Me
+**[Docs as Code site made with Mkdocs, the Meat and Potatoes of my journey in Software Development is found here](https://angelcodes95.github.io/angel-portfolio-docs/)**
 
 I specialize in creating developer tools and interactive web experiences. My work focuses on clean architecture, workflow automation, and building engaging applications that push the boundaries of traditional web development.
 
