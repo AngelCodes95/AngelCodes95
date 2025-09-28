@@ -1,80 +1,60 @@
-# Angel Vazquez
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AngelCodes95/AngelCodes95/main/assets/github-triangle-polaroid.svg" alt="Angel Vazquez - Software Engineer" width="100%"/>
 </div>
 
 <div align="center">
-  
-### React + TypeScript Developer | La Jolla, CA
 
-**[Visit My Interactive Digital Business Card, the bottom icon is my portfolio link!](https://angel-vazquez.com)**
+**[Digital Business Card: contains all my links](https://angel-vazquez.com)**
 
-*3D wireframe pyramid game with physics-based animations that doubles as a hub for all my tech links*
 
 </div>
 
 ## About Me
-**[Docs as Code site made with Mkdocs, the Meat and Potatoes of my journey in Software Development is found here](https://angelcodes95.github.io/angel-portfolio-docs/)**
+**[Visit My Portfolio](https://angelcodes95.github.io/angel-portfolio-docs/)**
 
-I specialize in creating developer tools and interactive web experiences. My work focuses on clean architecture, workflow automation, and building engaging applications that push the boundaries of traditional web development.
-
-Currently active in the 100Devs community, where I contribute to projects and mentor emerging developers.
+I love creating developer tools and user focused web experiences. I am always looking to make the users life easier and simpler wether they be another developer or a client. It's okay to mess up 100 times if you learned something and applied it the first 99. Questions are the only path to answers. 
 
 ## Featured Projects
 
-### Generator Screaming Bones
-**Yeoman Generator for React + TypeScript Projects | 18 Weekly Downloads**
+### **[StayingIn LJ](https://stayinginlj.com)**
+**Full-Stack E-Commerce Platform**
 
-A sophisticated project scaffolding tool that implements Screaming Architecture principles. Features opinionated tooling setup with Vite, ESLint, Prettier, and optional Tailwind CSS integration.
+Production marketplace application with complete transaction processing, user authentication, and content management. Handles real business operations including payment processing, inventory management, and user analytics.
 
-**Technologies:** Node.js, Yeoman, TypeScript, Vite  
-**Repository:** [generator-screaming-bones](https://github.com/AngelCodes95/generator-screaming-bones)  
-**NPM Package:** [generator-screaming-bones](https://www.npmjs.com/package/generator-screaming-bones)
+**Technologies:** Node.js, Express, MongoDB, Stripe API, Cloudinary, OAuth
 
-### Together Calendar
-**MERN Stack Group Calendar Application**
+### [Contindex](https://github.com/AngelCodes95/contindex)
+**CLI Tool for AI Context Management**
 
-Full-stack application designed for community collaboration with real-time synchronization features. Enables groups to coordinate schedules and manage shared events effectively.
+Command-line utility built in Go for processing and transforming AI context files. Streamlines developer workflows when working with large codebases and AI-assisted development.
 
-**Technologies:** MongoDB, Express.js, React, Node.js  
-**Repository:** [together](https://github.com/AngelCodes95/together)
+**Technologies:** Go, CLI Development, File Processing
 
-### Interactive Portfolio
-**3D Wireframe Pyramid Portfolio**
+### [generator-screaming-bones](https://github.com/AngelCodes95/generator-screaming-bones)
+**NPM Package for Project Scaffolding**
 
-An experimental portfolio featuring 3D wireframe pyramids with physics-based animations, SVG rendering, and responsive touch controls. Demonstrates advanced mathematical concepts in web development.
+Yeoman generator for React + TypeScript projects implementing domain-driven architecture patterns. Published package with active community usage and regular maintenance.
 
-**Technologies:** JavaScript, SVG, 3D Mathematics, CSS Animations  
-**Live Site:** [angel-vazquez.com](https://angel-vazquez.com)
+**Technologies:** Node.js, Yeoman, TypeScript, Vite
 
-## Technical Stack
+**Package:** [npmjs.com/package/generator-screaming-bones](https://www.npmjs.com/package/generator-screaming-bones)
 
-**Frontend:** React, TypeScript, Vite, SVG Animations, 3D Mathematics  
-**Backend:** Node.js, Express.js, MongoDB, SQL  
-**Tools:** Yeoman, ESLint, Prettier, Git, Build Automation
+## Technical Stack 
 
-## Engineering Philosophy
+**Frontend:** React, TypeScript, Vite
+**Backend:** Node.js, Express.js, Go, MongoDB, SQL  
+**Tools:** Yeoman, ESLint, Prettier, Git, CI/CD, YAML
 
-**Clean Architecture First**  
-Code should scream its intent. I implement Screaming Architecture principles to ensure applications are maintainable, testable, and clearly organized.
-
-**Developer Experience Matters**  
-Great tools enable great software. I focus on creating development environments that reduce friction and help teams move faster.
-
-**Interactive by Design**  
-Modern web applications should engage users beyond traditional interfaces. I explore the intersection of mathematics, physics, and web technologies.
 
 ## Community & Learning
-
 Active contributor to the 100Devs developer community with focus on practical application development and mentoring. Self-directed learning approach with emphasis on hands-on projects and open source contribution focused on developer productivity.
 
 <div align="center">
 
 ### Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-AngelCodes95-black?style=flat&logo=github)](https://github.com/angelcodes95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelthedev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/angelthedev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-angel--vazquez.com-purple?style=flat&logo=globe)](https://angel-vazquez.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AngelCodes95-00843D?style=flat&logo=github&logoColor=white)](https://github.com/angelcodes95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelthedev-FFFFFF?style=flat)](https://linkedin.com/in/angelthedev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-angel--vazquez.com-CE1126?style=flat&logo=google-chrome&logoColor=white)](https://angel-vazquez.com)
 
 </div>
