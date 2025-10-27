@@ -1,6 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/AngelCodes95/AngelCodes95/main/assets/github-triangle-polaroid.svg" alt="Angel Vazquez - Software Engineer" width="100%"/>
-</div>
+</div> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=600&color=4AF262&background=000000&multiline=true&repeat=false&width=1000&height=250&lines=Hi%2C+I'm+Angel.+Software+Engineer+in+La+Jolla%2C+California.;Here%2C+you+will+find+a+variety+of+projects+in+multiple+languages.;I+like+to+explore+AI+and+contribute+to+open+source+in+my+spare+time.;Yes%2C+you+CAN+currently+hire+me!+In-Office+or+remote.;Fair+market+rate+salary+is+fine%2C+meaningful+work+is+what+I+am+after.;Might+even+relocate+for+a+great+company!;Please+visit+my+portfolio+website%2C+linked+below!;You+made+it+to+the+end!+%5B%22Hip%22%2C+%22Hip%22%5D)](https://git.io/typing-svg)
 
 <div align="center">
 
