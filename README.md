@@ -31,14 +31,14 @@ Command-line utility built in Go for processing and transforming AI context file
 
 **Technologies:** Go, CLI Development, File Processing
 
-### [generator-screaming-bones](https://github.com/AngelCodes95/generator-screaming-bones)
-**NPM Package for Project Scaffolding**
+### [Carmen's Cleaning](https://carmens-cleaning.com)
+**Professional Service Website | Lead Management System**
 
-Yeoman generator for React + TypeScript projects implementing domain-driven architecture patterns. Published package with active community usage and regular maintenance.
+Production Astro + React application featuring bilingual English/Spanish support, lead management system with email automation, and Google OAuth admin dashboard. Built for cleaning service transitioning from 18 years offline-only operations, achieving 187 organic sessions with 2+ minute engagement time in first month without paid advertising.
 
-**Technologies:** Node.js, Yeoman, TypeScript, Vite
-
-**Package:** [npmjs.com/package/generator-screaming-bones](https://www.npmjs.com/package/generator-screaming-bones)
+**Technologies:** Astro, React, TypeScript, Tailwind CSS, Supabase, Netlify
+**Live Site:** [carmens-cleaning.com](https://carmens-cleaning.com)
+**Performance:** 100 desktop / 98 mobile PageSpeed scores
 
 ## Technical Stack 
 
@@ -48,7 +48,7 @@ Yeoman generator for React + TypeScript projects implementing domain-driven arch
 
 
 ## Community & Learning
-Active contributor to the 100Devs developer community with focus on practical application development and mentoring. Self-directed learning approach with emphasis on hands-on projects and open source contribution focused on developer productivity.
+Co-host of weekly coworking meetup through San Diego DevX. Regularly attend meetups and mixers up and down the coast from Oceanside to San Diego. Active member of the 100Devs developer community, contributing to projects and mentoring emerging developers.
 
 <div align="center">
 
