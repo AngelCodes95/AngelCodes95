@@ -1,61 +1,52 @@
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/AngelCodes95/AngelCodes95/main/assets/github-triangle-polaroid.svg" alt="Angel Vazquez - Software Engineer" width="100%"/>
-</div> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=600&color=4AF262&background=000000&multiline=true&repeat=false&width=1000&height=250&lines=Hi%2C+I'm+Angel.+Software+Engineer+in+La+Jolla%2C+California.;Here%2C+you+will+find+a+variety+of+projects+in+multiple+languages.;I+like+to+explore+AI+and+contribute+to+open+source+in+my+spare+time.;Yes%2C+you+CAN+currently+hire+me!+In-Office+or+remote.;Fair+market+rate+salary+is+fine%2C+meaningful+work+is+what+I+am+after.;Might+even+relocate+for+a+great+company!;Please+visit+my+portfolio+website%2C+linked+below!;You+made+it+to+the+end!+%5B%22Hip%22%2C+%22Hip%22%5D)](https://git.io/typing-svg)
+<a href="https://angel-vazquez.com" target="_blank" rel="noopener noreferrer">
+  <div align="center">
+    <img src="assets/banner.png" alt="Angel Vazquez, Software Engineer. Tired of scrolling and reading? Chat with my ragfolio." width="100%">
+  </div>
+</a>
 
-<div align="center">
+## About
 
-**[Digital Business Card: contains all my links](https://angel-vazquez.com)**
+I build production web applications for small businesses and developer tools for other developers, I'm an Organizer for a 1000+ member Software Engineering group in San Diego, CA.
 
+## Before Software
 
-</div>
+Trade school for welding out of high school, hired on before I'd even finished. Worked a few years on the shop floor and became a lead. Then car sales for several years: Nissan, Subaru, Chevy to name a few. A remote concierge role at Verse.io (now Verse.ai) put me close to the tools actually running a business, and wanted more of a challenge in life. I started writing code nights and weekends while working, then started freelancing and sourcing my own clients when my skills reached a professional threshold.
 
-## About Me
-**[Visit My Portfolio](https://angelcodes95.github.io/angel-portfolio-docs/)**
+## Client Work
 
-I love creating developer tools and user focused web experiences. I am always looking to make the users life easier and simpler wether they be another developer or a client. It's okay to mess up 100 times if you learned something and applied it the first 99. Questions are the only path to answers. 
+**[StayingIn LJ](https://stayinginlj.com)**
+Full-stack e-commerce marketplace: transaction processing, authentication, inventory management, and user analytics for real business operations.
+`Node.js` `Express` `MongoDB` `Stripe API` `Cloudinary` `OAuth`
 
-## Featured Projects
+**[Carmen's Cleaning](https://carmens-cleaning.com)**
+Bilingual (English/Spanish) lead management site with an OAuth-gated admin dashboard, built for a cleaning service transitioning off 18 years of offline-only operations.
+`Astro` `React` `TypeScript` `Tailwind CSS` `Supabase` `Netlify`
 
-### **[StayingIn LJ](https://stayinginlj.com)**
-**Full-Stack E-Commerce Platform**
+Plus several more shipped for local businesses: landing pages, lead management, Ecommerce stores, booking calendarslegacy modernization
 
-Production marketplace application with complete transaction processing, user authentication, and content management. Handles real business operations including payment processing, inventory management, and user analytics.
+## Open Source
 
-**Technologies:** Node.js, Express, MongoDB, Stripe API, Cloudinary, OAuth
+**[Contindex](https://github.com/AngelCodes95/contindex)** `Go` `10★`
+CLI that transforms monolithic AI context files into an index-chapter architecture for large codebases.
 
-### [Contindex](https://github.com/AngelCodes95/contindex)
-**CLI Tool for AI Context Management**
+**[generator-screaming-bones](https://github.com/AngelCodes95/generator-screaming-bones)** `JavaScript`
+Yeoman generator scaffolding React, TypeScript, and Vite projects with Screaming Architecture.
 
-Command-line utility built in Go for processing and transforming AI context files. Streamlines developer workflows when working with large codebases and AI-assisted development.
+**[terminal-jarvis-landing](https://github.com/AngelCodes95/terminal-jarvis-landing)** `TypeScript`
+Frontend companion site for Terminal Jarvis, a community CLI project.
 
-**Technologies:** Go, CLI Development, File Processing
+## Community
 
-### [Carmen's Cleaning](https://carmens-cleaning.com)
-**Professional Service Website | Lead Management System**
+Co-host of the weekly DEVxSD coworking meetup, regular at meetups and mixers from Oceanside to San Diego. Cohosted a hands-on OpenClaw workshop (Discord bot plus a local agent stack on a VPS) with a [setup guide](https://github.com/AngelCodes95/openclaw-setup-guide) `4★` that's helped dozens of others replicate it.
 
-Production Astro + React application featuring bilingual English/Spanish support, lead management system with email automation, and Google OAuth admin dashboard. Built for cleaning service transitioning from 18 years offline-only operations, achieving 187 organic sessions with 2+ minute engagement time in first month without paid advertising.
-
-**Technologies:** Astro, React, TypeScript, Tailwind CSS, Supabase, Netlify
-**Live Site:** [carmens-cleaning.com](https://carmens-cleaning.com)
-**Performance:** 100 desktop / 98 mobile PageSpeed scores
-
-## Technical Stack 
+## Technical Stack
 
 **Frontend:** React, TypeScript, Vite
-**Backend:** Node.js, Express.js, Go, MongoDB, SQL  
+**Backend:** Node.js, Express.js, Go, MongoDB, SQL
 **Tools:** Yeoman, ESLint, Prettier, Git, CI/CD, YAML
-
-
-## Community & Learning
-Co-host of weekly coworking meetup through San Diego DevX. Regularly attend meetups and mixers up and down the coast from Oceanside to San Diego. Active member of the 100Devs developer community, contributing to projects and mentoring emerging developers.
 
 <div align="center">
 
-### Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-AngelCodes95-00843D?style=flat&logo=github&logoColor=white)](https://github.com/angelcodes95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelthedev-FFFFFF?style=flat)](https://linkedin.com/in/angelthedev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-angel--vazquez.com-CE1126?style=flat&logo=google-chrome&logoColor=white)](https://angel-vazquez.com)
+**[LinkedIn](https://linkedin.com/in/angelthedev) &middot; [Ragfolio](https://angel-vazquez.com)**
 
 </div>
